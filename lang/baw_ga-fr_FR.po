@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AutoShortener\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-09 07:44+0100\n"
+"PO-Revision-Date: 2011-06-09 07:46+0100\n"
+"Last-Translator: Juliobox <juliobosk@gmail.com>\n"
+"Language-Team: Juliobox <juliobosk@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: c:\\Web\\Sites\\baw\\baw-google-author\n"
+
+#: c:\Web\Sites\baw\baw-google-author/about.php:6
+msgid "About BoiteAWeb"
+msgstr "A propos de BoiteAWeb"
+
+#: c:\Web\Sites\baw\baw-google-author/about.php:7
+msgid "Blog"
+msgstr "Blog"
+
+#: c:\Web\Sites\baw\baw-google-author/about.php:7
+msgid "Security Expert Wordpress Blog"
+msgstr "Blog d'expert en sécurité WordPress"
+
+#: c:\Web\Sites\baw\baw-google-author/about.php:8
+msgid "Site secu"
+msgstr "Site sécu"
+
+#: c:\Web\Sites\baw\baw-google-author/about.php:8
+msgid "Web Security Consultant Corporate Website"
+msgstr "Site web corpo de consultant en sécurité web"
+
+#: c:\Web\Sites\baw\baw-google-author/about.php:9
+msgid "Donate"
+msgstr "Don"
+
+#: c:\Web\Sites\baw\baw-google-author/baw-google-author.php:46
+msgid "Settings updated"
+msgstr "Réglages mis à jour"
+
+#: c:\Web\Sites\baw\baw-google-author/baw-google-author.php:52
+msgid "META author style"
+msgstr "Style de META Author"
+
+#: c:\Web\Sites\baw\baw-google-author/baw-google-author.php:55
+msgid "Always use this name. Will be used too on every non post/page (index, 404, search, ...)"
+msgstr "Toujours utiliser ce nom. Il sera aussi utilisé sur toutes les pages non articles/pages (index, 404, recherche, ...)"
+
+#: c:\Web\Sites\baw\baw-google-author/baw-google-author.php:57
+msgid "Use the real author from post/page."
+msgstr "Utiliser le véritable auteur de l'article/page."
+
+#: c:\Web\Sites\baw\baw-google-author/baw-google-author.php:63
+msgid "Save Changes"
+msgstr "Sauver"
+
+#: c:\Web\Sites\baw\baw-google-author/baw-google-author.php:92
+msgid "Settings"
+msgstr "Réglages"
+
