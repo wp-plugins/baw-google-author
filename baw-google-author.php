@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: BAW Google Author
-Plugin URI: http://www.boiteaweb.fr/2929
+Plugin URI: http://www.boiteaweb.fr/?p=2929
 Description: Add a meta tag AUTHOR for SEO
-Version: 1.1
+Version: 1.2
 Author: Juliobox
-Author URI: http://www.BoiteaWeb.fr
+Author URI: http://wp-rocket.me
 License: GPLv2
 */
 
@@ -53,7 +53,6 @@ function bawga_page()
     <?php 
 	submit_button();
 	settings_fields( 'bawga-settings-group' );
-	include( dirname( __FILE__ ) . '/about.php' )
 	?>
 </form>
 <?php

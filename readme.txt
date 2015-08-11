@@ -2,7 +2,7 @@
 Contributors: juliobox
 Tags: google, author, meta, tag, seo
 Requires at least: 3.0
-Tested up to: 3.4.1
+Tested up to: 4.3
 Stable tag: trunk
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RB7646G6NVPWU
 License: GPLv2
@@ -29,6 +29,12 @@ None
 Nothing
 
 == Changelog ==
+
+= 1.2 =
+* 11 aug 2015
+* 4.3 support
+* Remove the about.php
+* mmm are you really still using it?
 
 = 1.1 =
 * 22 jul 2012
